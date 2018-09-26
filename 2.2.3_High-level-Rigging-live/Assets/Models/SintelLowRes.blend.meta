@@ -170,6 +170,12 @@ ModelImporter:
     4300010: sintel_belt
     7400000: Default Take
     9500000: //RootNode
+    13700000: sintel_belt
+    13700002: sintel_body
+    13700004: sintel_eye_L
+    13700006: sintel_eye_R
+    13700008: sintel_hair_solid
+    13700010: sintel_mouth
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
