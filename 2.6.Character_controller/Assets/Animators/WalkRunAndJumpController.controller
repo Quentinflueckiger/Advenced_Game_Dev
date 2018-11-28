@@ -48,7 +48,7 @@ AnimatorController:
   - serializedVersion: 5
     m_Name: Blend Shapes
     m_StateMachine: {fileID: 1107867719777176612}
-    m_Mask: {fileID: 0}
+    m_Mask: {fileID: 31900000, guid: 23ead7015bb255d47a48ddc3d2363104, type: 2}
     m_Motions: []
     m_Behaviours: []
     m_BlendingMode: 0
@@ -406,7 +406,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102925273862404582}
-    m_Position: {x: 288, y: 120, z: 0}
+    m_Position: {x: 288, y: 108, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
